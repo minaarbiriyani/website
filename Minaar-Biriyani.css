@@ -177,15 +177,8 @@
     min-height: 751px;
   }
 
-  .u-section-2 .u-image-1 {
-    width: 538px;
-    height: 345px;
-  }
-
   .u-section-2 .u-text-2 {
-    width: auto;
     font-size: 1.25rem;
-    margin-top: 37px;
     margin-left: 0;
     margin-right: 0;
   }
@@ -200,10 +193,13 @@
     font-size: 3.75rem;
   }
 
+  .u-section-2 .u-image-1 {
+    width: 540px;
+    height: 337px;
+  }
+
   .u-section-2 .u-text-2 {
     font-size: 1.125rem;
-    margin-top: 38px;
-    margin-bottom: 30px;
   }
 }
 
